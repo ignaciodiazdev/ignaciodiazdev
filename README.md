@@ -12,7 +12,7 @@
 🎓 ESTUDIANTE DE INGENIERÍA DE SISTEMAS
 
 - 👨‍💻 Actualmente, estoy realizando proyectos web, utilizando lenguajes como JavaScript y Python.
-- 📚 Desarrollé una aplicación de Sistema de Biblioteca con React utilizando React y Django.
+- 📚 Desarrollé una aplicación de Sistema de Biblioteca utilizando los Frameworks React y Django.
 - 🌱 Estoy aprendiendo continuamente sobre las últimas tecnologías frontend y prácticas de desarrollo.
 - 🤝 Activo en comunidades en línea y participo en discusiones sobre las últimas tendencias en desarrollo frontend.
 - 📫 Contacto: **ignaciodiazbr@gmail.com**
