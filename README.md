@@ -18,7 +18,6 @@
 - 📫 Contacto: **ignaciodiazbr@gmail.com**
 <!--Intro end-->
 </p>
-<br>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
@@ -28,8 +27,6 @@
   </a>
 </p>
 <!-------------------------->
-<br>
-
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
