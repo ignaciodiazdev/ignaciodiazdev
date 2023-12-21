@@ -9,8 +9,8 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 ESTUDIANTE DE INGENIERÍA DE SISTEMAS
-
+🎓 Hola 👋, Soy Ignacio Diaz, estudiante de Ingeniería de Sistemas en la Universidad Nacional Federico Villarreal
+  
 - 👨‍💻 Actualmente, estoy realizando proyectos web, utilizando lenguajes como JavaScript y Python.
 - 📚 Desarrollé una aplicación de Sistema de Biblioteca utilizando los Frameworks React y Django.
 - 🌱 Estoy aprendiendo continuamente sobre las últimas tecnologías frontend y prácticas de desarrollo.
