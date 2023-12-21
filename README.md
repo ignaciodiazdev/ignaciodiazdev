@@ -43,7 +43,7 @@
 <td width="40%" align="center">
 
   <!---<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ignaciodiazdev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>-->
-<img align="center" width=84% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciodiazdev&hide_progress=true&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+<img align="center" width=84% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciodiazdev&hide_progress=true&theme=dark&no-bg=true&no-frame=true&langs_count=10" alt="TROPHY" />
   </td>
 </tr>
 </table>
