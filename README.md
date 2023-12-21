@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/Uf58jpH.png)]
+![MasterHead](https://i.imgur.com/Uf58jpH.png)
 <h1 align="center">Hi 👋, I'm Ignacio Diaz</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
