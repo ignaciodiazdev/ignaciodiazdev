@@ -7,7 +7,7 @@
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
+<img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
 <p align="left">
 🎓 Hola 👋, Soy Ignacio Diaz, estudiante de Ingeniería de Sistemas en la Universidad Nacional Federico Villarreal
   
