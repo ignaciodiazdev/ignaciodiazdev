@@ -1,6 +1,5 @@
 ![MasterHead](https://i.imgur.com/Uf58jpH.png)
 <!--<h1 align="center">Hola 👋, Soy Ignacio Diaz</h1>-->
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
 <a href="https://linkedin.com/in/ignaciodiazbr" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ignaciodiazbrlinkedin"/></a>
 <a href = "mailto:ignaciodiazbr@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@ignaciodiazbr"  /></a>
   </p>
@@ -8,6 +7,7 @@
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
 <p align="left">
 🎓 Hola 👋, Soy Ignacio Diaz, estudiante de Ingeniería de Sistemas en la Universidad Nacional Federico Villarreal
   
