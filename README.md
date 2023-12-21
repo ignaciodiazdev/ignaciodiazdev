@@ -1,7 +1,7 @@
 ![MasterHead](https://i.imgur.com/Uf58jpH.png)
 <h1 align="center">Hola 👋, Soy Ignacio Diaz</h1>
 
-<a href="https://linkedin.com/in/ignaciodiazbr" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ignaciodiazbrlinkedin"/></a>
+<a href="https://linkedin.com/in/ignaciodiazbr" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ignaciodiazbrlinkedin"/></a>
 <a href = "mailto:ignaciodiazbr@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@ignaciodiazbr"  /></a>
   </p>
   
