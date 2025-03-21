@@ -40,6 +40,8 @@
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=docker,linux,gcp,git,github,postman,vscode,vite&perline=12" />
 </p>
+<br>
+    
 <!-------------------------->
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
