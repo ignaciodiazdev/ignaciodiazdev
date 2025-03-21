@@ -19,12 +19,13 @@
 <!--Intro end-->
 </p>
 <br>
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tecnologías Frontend👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,ts,tailwind,nestjs,py,django,css,sass,html,bootstrap,nodejs,mysql,postgres,firebase,mongodb,git,github,docker,materialui,postman,vscode,vite,linux,gcp&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,bootstrap,html,css,sass,materialui,shadcn&perline=12" />
   </a>
+      <img src="https://skillicons.dev/icons?i=js,react,ts,tailwind,nestjs,py,django,css,sass,html,bootstrap,nodejs,mysql,postgres,firebase,mongodb,git,github,docker,materialui,postman,vscode,vite,linux,gcp&perline=12" />
 </p>
 <!-------------------------->
 <h2>GitHub :octocat:</h2>
