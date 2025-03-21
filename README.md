@@ -23,23 +23,22 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,bootstrap,html,css,sass,materialui,shadcn&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,prisma,tailwind,bootstrap,html,css,sass,materialui&perline=12" />
   </a>
-      <img src="https://skillicons.dev/icons?i=js,react,ts,tailwind,nestjs,py,django,css,sass,html,bootstrap,nodejs,mysql,postgres,firebase,mongodb,git,github,docker,materialui,postman,vscode,vite,linux,gcp&perline=12" />
 </p>
 
 <br>
 <h2 >Tecnologías Backend👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,django,mysql,postgres,,mongodb,firebase,git,github,docker,postman,vscode,vite,linux,gcp&perline=12" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,django,mysql,postgres,mongodb,firebase&perline=12" />
 </p>
 
 <br>
 <h2 >Tecnologías Complementarias👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vite,linux,gcp&perline=12" />
+      <img src="https://skillicons.dev/icons?i=docker,linux,gcp,git,github,postman,vscode,vite&perline=12" />
 </p>
 <!-------------------------->
 <h2>GitHub :octocat:</h2>
