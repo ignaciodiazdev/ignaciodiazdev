@@ -23,7 +23,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,py,django,css,sass,html,bootstrap,nodejs,mysql,postgres,firebase,mongodb,git,github,docker,materialui,postman,vscode,vite,linux,gcp&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,react,tsx,tailwind,nestjs,py,django,css,sass,html,bootstrap,nodejs,mysql,postgres,firebase,mongodb,git,github,docker,materialui,postman,vscode,vite,linux,gcp&perline=12" />
   </a>
 </p>
 <!-------------------------->
