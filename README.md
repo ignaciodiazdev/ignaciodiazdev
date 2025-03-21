@@ -27,14 +27,12 @@
   </a>
 </p>
 
-<br>
 <h2 >Tecnologías Backend👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,django,mysql,postgres,mongodb,firebase&perline=12" />
 </p>
 
-<br>
 <h2 >Tecnologías Complementarias👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
