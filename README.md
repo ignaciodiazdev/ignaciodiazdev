@@ -4,7 +4,7 @@
 <a href = "mailto:ignaciodiazbr@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@ignaciodiazbr"  /></a>
   </p>
   
-<h2>Sobre mi 😃</h2>
+<h2>Sobre mi 😃!</h2>
 <!--Intro start-->
 
 <!--<img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif"/>-->
